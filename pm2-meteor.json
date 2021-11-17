@@ -1,0 +1,25 @@
+{
+  "appName": "simple-todos-react",
+  "appLocation": {
+    "local": "./"
+  },
+  "meteorSettingsLocation": "D:\\projects\\meteor\\simple-todos-react\\settings.json",
+  "meteorSettingsInRepo": false,
+  "prebuildScript": "",
+  "meteorBuildFlags": "--architecture os.linux.x86_64",
+  "env": {
+    "ROOT_URL": "/",
+    "PORT": 3000,
+    "MONGO_URL": ""
+  },
+  "server": {
+    "host": "",
+    "username": "",
+    "password": "1",
+    "deploymentDir": "/opt/meteor-apps",
+    "loadProfile": "",
+    "interpreter": "",
+    "exec_mode": "cluster_mode",
+    "instances": "5"
+  }
+}
